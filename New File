@@ -1,12 +1,12 @@
 using System;
 using System.Collections.Generic;
-
 class Program
 {
     static void Main()
     {
         List<string> groceryItems = new List<string>
         {
+            "Oranges",
             "Apples",
             "Milk",
             "Bread",
