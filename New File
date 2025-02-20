@@ -7,6 +7,7 @@ class Program
     {
         List<string> groceryItems = new List<string>
         {
+            "Pineapple",
             "Apples",
             "Milk",
             "Bread",
