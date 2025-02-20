@@ -6,6 +6,7 @@ class Program
     {
         List<string> groceryItems = new List<string>
         {
+            "Pineapple",
             "Oranges",
             "Apples",
             "Milk",
